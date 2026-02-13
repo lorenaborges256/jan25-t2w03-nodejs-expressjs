@@ -18,5 +18,11 @@
   "bugs": {
     "url": "https://github.com/lorenaborges256/jan25-t2w03-nodejs-expressjs/issues"
   },
-  "homepage": "https://github.com/lorenaborges256/jan25-t2w03-nodejs-expressjs#readme"
+  "homepage": "https://github.com/lorenaborges256/jan25-t2w03-nodejs-expressjs#readme",
+  "devDependencies": {
+    "eslint": "^10.0.0"
+  },
+  "dependencies": {
+    "pokemon": "^3.3.0"
+  }
 }
