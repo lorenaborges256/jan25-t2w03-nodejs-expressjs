@@ -1,0 +1,22 @@
+{
+  "name": "jan25-t2w03-nodejs-expressjs",
+  "version": "1.0.0",
+  "description": "Intro to NodeJS and ExpressJS!",
+  "main": "src/ index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lorenaborges256/jan25-t2w03-nodejs-expressjs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/lorenaborges256/jan25-t2w03-nodejs-expressjs/issues"
+  },
+  "homepage": "https://github.com/lorenaborges256/jan25-t2w03-nodejs-expressjs#readme"
+}
